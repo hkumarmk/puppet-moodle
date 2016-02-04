@@ -1,0 +1,15 @@
+{
+  "name": "puppet-moodle",
+  "version": "0.1.0",
+  "author": "Harish Kumar <hkumar@d4devops.org>",
+  "summary": "To deploy and manage moodle course management application",
+  "license": "Apache 2.0",
+  "source": "github.com/hkumarmk/puppet-moodle",
+  "project_page": "https://github.com/hkumarmk/puppet-moodle",
+  "issues_url": "https://github.com/hkumarmk/puppet-moodle/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-vcsrepo","version_requirement":">= 1.3.2"}
+  ]
+}
+
